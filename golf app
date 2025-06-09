@@ -1,1 +1,5 @@
+npm install -g @openai/codex
+export OPENAI_API_KEY=YOUR_KEY
+cd your-app-directory
+codex
 
